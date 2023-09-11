@@ -1,28 +1,28 @@
 # Pick a Color
 
-### Recursos
-* **Botão de Mudança de Cor:** Um botão que, quando clicado, gera uma nova cor de fundo aleatória para a página.
+### Resources
+* **Color Change Button:** A button that, when clicked, generates a new random background color for the page.
 
-* **Mudança de Cor Aleatória:** O JavaScript gera cores aleatórias a partir de uma lista predefinida de cores sempre que o botão é clicado.
+* **Random Color Change:** JavaScript generates random colors from a predefined list of colors every time the button is clicked.
 
-* **Design Responsivo:** O programa possui um design responsivo e se adapta a diferentes tamanhos de tela.
+* **Responsive Design:** The program has a responsive design and adapts to different screen sizes.
 
-### Tecnologias Utilizadas
-* **JavaScript:** Usado para gerar cores aleatórias e manipular o DOM.
+### Technologies Used
+* **JavaScript:** Used to generate random colors and manipulate the DOM.
 
-* **HTML:** Define a estrutura da página web e incorpora o botão de mudança de cor.
+* **HTML:** Defines the structure of the web page and incorporates the color change button.
 
-* **CSS:** Estiliza a página, incluindo a cor de fundo inicial e o layout.
+* **CSS:** Styles the page, including initial background color and layout.
 
-### Como Usar
-1. Clone ou faça o download deste repositório.
+### How to use
+1. Clone or download this repository.
 
-2. Abra o arquivo **`index.html`** em seu navegador da web.
+2. Open the **`index.html`** file in your web browser.
 
-3. Clique no botão "Mudar Cor" para ver a cor de fundo da página mudar aleatoriamente.
+3. Click the "Change Color" button to see the page background color change randomly.
 
-### Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, sugerir melhorias ou enviar solicitações de pull request.
+### Contributions
+Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
 
-### Licença
-Este projeto é licenciado sob a __Licença MIT__.
+### License
+This project is licensed under the __MIT License__.
